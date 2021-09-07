@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+  <head>
+     <title>keluth Sanjeev<title>
+     <Meta charset="utf-8">
+      <meta nane ="view port"
+      Content="width-device-width,
+       initial-scale=2.0">
+       <\head>
+       <style>
+        body {
+           text-medak:ceter
+        }
+            h1{color:#3F5F5F
+            text-medak: center;}
+        P{
+          Color:grey;
+        }
+          </Style>
+        <body>
+        <h1> Assignment-2 </h1>
+            <div class="card">
+        <img width=200
+           Src="Sanjeev.jpeg">
+        <h2>keluth Sanjeev Kumar</h2>
+        <p><i><b>computer science Engineering</b><i></p>
+           <h3>my roll no 2006203</h3>
+            <h4>national institution of technology patna</h3>
+        </div>
+        </body>
+      <html>
+        
